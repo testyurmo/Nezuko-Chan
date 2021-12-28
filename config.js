@@ -1,3 +1,3 @@
-exports.PREFIX = ".";
-exports.OWNER_ID = "706822316918833184";
-exports.Owner_Name = "mrnuggets#9881";
+exports.PREFIX = "!";
+exports.OWNER_ID = "890241897459765268";
+exports.Owner_Name = "ZΞUS#9259";
