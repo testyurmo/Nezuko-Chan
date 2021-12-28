@@ -52,7 +52,7 @@ const Description = `My Prefix Is **${prefix}**\n\nFor More Command Information,
 
 const Embed = new Discord.MessageEmbed()
     .setColor("PURPLE")
-    .setImage(`https://cdn.discordapp.com/attachments/879726405125046285/879744865255174204/standard_1.gif`)
+    
     .setAuthor("Commands", message.author.avatarURL({
         dynamic: true
     }))
